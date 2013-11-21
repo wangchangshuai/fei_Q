@@ -1,0 +1,14 @@
+本软件需要创建两个数据库，分别是 main 和 users
+
+创建数据库都参数如下：
+database name:		main
+character set:		utf8 -- UTF-8 Unicode
+collaction:		utf8_general_ci
+
+database name:		users
+character set:		utf8 -- UTF-8 Unicode
+collaction:		utf8_general_ci
+
+由于本软件支持两个数据库，因此我提供的脚本有两个版本，分别在文件夹mysql和slqserer中。
+提供的都只是main数据库的sql脚本，因为users数据库中的表会在申请QQ帐号时自动创建。
+所以只导入main数据库都数据即可使用。
