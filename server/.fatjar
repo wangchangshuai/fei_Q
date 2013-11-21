@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Dec 12 22:43:36 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=server.jar
+manifest.mergeall=true
+manifest.mainclass=server.serverMain.serverMain
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

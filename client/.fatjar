@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 02 12:22:30 CST 2006
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=\u98DEQ2012.jar
+manifest.mergeall=true
+manifest.mainclass=Windows_login.login
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
