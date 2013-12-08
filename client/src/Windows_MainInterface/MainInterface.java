@@ -55,7 +55,7 @@ import client.thread.updateRemarkThread.updateRemarkThread;
  * 
  * 山东科技大学信息学院  版权所有
  * 
- * 联系邮箱：415939252@qq.com
+ * 联系邮箱：415939252@qq.com 
  * 
  * Copyright © 1999-2012, sdust, All Rights Reserved
  * 
