@@ -68,7 +68,7 @@ public class MainInterface extends JFrame implements ActionListener
 	 * 
 	 */
 	private static final long					serialVersionUID				= 1L;
-	static public String						ip								= "192.168.1.78";
+	static public String						ip								= "192.168.1.23";
 	HashMap<String, String>						map_qq							= new HashMap<String, String>();
 	// 定义组件
 	String										b2								= ".jpg";
